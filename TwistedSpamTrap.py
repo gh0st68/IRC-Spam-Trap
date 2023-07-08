@@ -13,6 +13,10 @@
 ## Replace the two channels below, replace oper login and password. 
 ## I also added a spot to put your nickserv password. (Not needed)
 
+## Dependencies / things to install to make this bot work
+## pip3 install irc.bot
+## pip3 install ssl
+
 
 ## Questions or help or just to visit come to 
 ### IRC.TWISTEDNET.ORG CHANNEL #DEV & #TWISTED
